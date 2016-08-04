@@ -25,3 +25,4 @@ for year in range(2003, 2015):
 	        	white += 1
 	print "Percent of white people stopped and frisked in the year "+str(year)+":"
 	print white / total * 100
+	
